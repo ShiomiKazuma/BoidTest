@@ -13,5 +13,3 @@ public class BoidParam : ScriptableObject
     [CustomLabel("リーダーへの追従停止距離")] public float ReaderDistance = 2f;
     [CustomLabel("リーダーの後ろのオフセット距離")] private float ReaderBackOffsetDistance = 2f;
 }
-
-//テスト用コメント
